@@ -1,0 +1,1 @@
+export const BPN_BALANCE = 'bpn.balanceOf()'
